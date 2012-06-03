@@ -16,7 +16,7 @@ Project Description
 -------------------
 
 This project is about remote monitoring in greenhouse for ripeness detection of tomatoes with the help of android based phone.
-Technologies Used
+
 
 
 Technologies Used
